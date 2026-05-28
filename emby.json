@@ -4,11 +4,11 @@
   "icons":  [
      {
       "name": "Rysu-emby",
-      "url": "https:\/\/github.com\/xhy9974\/emby-icon\/blob\/main\/Rysu.png"
+      "url": "https:\/\/raw.githubusercontent.com\/xhy9974\/emby-icon\/main\/Rysu.png"
     },
     {
       "name": "Lysu-emby",
-      "url": "https:\/\/github.com\/xhy9974\/emby-icon\/blob\/main\/Lysu.png"
+      "url": "https:\/\/raw.githubusercontent.com\/xhy9974\/emby-icon\/main\/Lysu.png"
     }
   ]
 }
