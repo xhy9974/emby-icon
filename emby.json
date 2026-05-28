@@ -1,0 +1,14 @@
+{
+  "name": "Emby专用",
+  "description": "自制图标",
+  "icons":  [
+     {
+      "name": "Rysu-emby",
+      "url": "https://cdn.phototourl.com/free/2026-05-27-b06e14c2-9462-4552-808b-31f11be575d1.png"
+    },
+    {
+      "name": "Lysu-emby",
+      "url": "https://cdn.phototourl.com/free/2026-05-27-0c1fe62a-9465-4a4a-8660-08141a1f2630.png"
+    }
+  ]
+}
